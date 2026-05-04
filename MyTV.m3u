@@ -49,3 +49,5 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd
 #EXTINF:-1,TLC
 TLC Vietnam (1080p)
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
+#EXTINF:-1,HGTV
+https://liveh34.vtvprime.vn/hls/HGTV/03.m3u8

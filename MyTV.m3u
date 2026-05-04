@@ -1,35 +1,51 @@
 # MyTV-Vietnam
 MyTV is a leading interactive television service in Vietnam, operated by VNPT-Media, a subsidiary of the Vietnam Posts and Telecommunications Group (VNPT). Launched in 2009, it has grown into one of the country's largest IPTV and OTT (Over-the-Top) platforms, offering nearly 200 television channels and a massive library of 70,000 hours.
-
+#EXTM3U
+#EXTINF:-1,Cbeebies
 Cbeebies Asia Vietnam (1080p)
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
+#EXTINF:-1,Cartoon Network
 Cartoon Network Asia Vietnam (1080p)
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
+#EXTINF:-1,CinemaWorld
 CinemaWorld Asia Vietnam (1080p)
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
+#EXTINF:-1,Discovery
 Discovery Asia Vietnam (1080p)
 https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
+#EXTINF:-1,Dreamworks
 Dreamworks Asia Vietnam (1080p)
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
+#EXTINF:-1,HBO
 HBO Asia Vietnam (1080p)
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
+#EXTINF:-1,Cinemax
 Cinemax Asia Vietnam (1080p)
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
+#EXTINF:-1,DMAX
 DMAX Vietnam (1080p)
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
+#EXTINF:-1,Warner TV
 Warner TV Vietnam (1080p)
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
+#EXTINF:-1,AXN
 AXN Vietnam (1080p)
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
+#EXTINF:-1,BBC Earth
 BBC Earth Vietnam (1080p)
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
+#EXTINF:-1,BBC Lifestyle
 BBC Lifestyle Vietnam (1080p)
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
+#EXTINF:-1,BBC World News
 BBC World News Vietnam (1080p)
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd
+#EXTINF:-1,Bloomberg
 Bloomberg Vietnam (1080p)
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bloomberg.smil/manifest.mpd
+#EXTINF:-1,CNN
 CNN Vietnam (1080p)
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd
+#EXTINF:-1,TLC
 TLC Vietnam (1080p)
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd

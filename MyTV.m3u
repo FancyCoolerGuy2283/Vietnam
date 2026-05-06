@@ -1,6 +1,112 @@
 # MyTV-Vietnam
 MyTV is a leading interactive television service in Vietnam, operated by VNPT-Media, a subsidiary of the Vietnam Posts and Telecommunications Group (VNPT). Launched in 2009, it has grown into one of the country's largest IPTV and OTT (Over-the-Top) platforms, offering nearly 200 television channels and a massive library of 70,000 hours.
 #EXTM3U
+#EXTINF:-1,VTV1
+https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:-1,VTV2
+https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:-1,VTV3
+https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:-1,VTV4
+https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:-1,VTV5
+https://live.fptplay53.net/epzhd1/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1,VTV5 Tây Nam Bô
+https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1,VTV5 Tây Nguyên
+https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1,VTV7
+https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTING:-1,VTV8
+https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1,VTV9
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv9-hd/KenhCoBan.m3u8
+#EXTINF:-1,VTV Cân Thô
+https://live.fptplay53.net/live/media/VTV_can_tho/live_hls_avc/index.m3u8
+#EXTINF:-1,BOX MOVIE 1
+https://livevlisctcdnw.seenow.vn/mean/BM1/manifest.mpd
+#EXTINF:-1,BOX HITS
+https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
+#EXTINF:-1,CNA
+https://liveh12.vtvprime.vn/hls/CAN/03.m3u8
+#EXTINF:-1,CNBC
+https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
+#EXTINF:-1,Cartoonito
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:7a:39:a6&amp;stream=1516887&amp;extension=ts&amp;play_token=uMKoUY8Cu7
+#EXTINF:-1,France 24
+https://liveh12.vtvprime.vn/hls/FRANCE24/03.m3u8
+#EXTINF:-1,History
+https://liveh34.vtvprime.vn/hls/HISTORY/02.m3u8
+#EXTINF:-1,Hollywood Classics
+https://livevlisctcdnw.seenow.vn/mean/HC/manifest.mpd
+#EXTINF:-1,InTheBox
+https://livevlisctcdnw.seenow.vn/livesnv2/INTHEBOX/manifest.mpd
+#EXTINF:-1,KBS World
+https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
+#EXTINF:-1,Kix HD
+https://liveh34.vtvprime.vn/hls/KIX/04.m3u8
+#EXTINF:-1,ON BiBi
+https://freem3u.xyz/api/live/play.m3u8?vid=178
+#EXTINF:-1,ON Cine
+https://freem3u.xyz/api/live/play.m3u8?vid=176
+#EXTINF:-1,ON Golf
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-23-golf-channel/KenhCoBan.m3u8
+#EXTINF:-1,ON Kids
+https://freem3u.xyz/api/live/play.m3u8?vid=179
+#EXTINF:-1,ON Life
+https://freem3u.xyz/api/live/play.m3u8?vid=188
+#EXTINF:-1,ON Movies
+https://freem3u.xyz/api/live/play.m3u8?vid=181
+#EXTINF:-1,ON Music
+https://freem3u.xyz/api/live/play.m3u8?vid=185
+#EXTINF:-1,ON O2TV
+https://freem3u.xyz/api/live/play.m3u8?vid=136
+#EXTINF:-1,ON Phim Viêt
+https://freem3u.xyz/api/live/play.m3u8?vid=175
+#EXTINF:-1,Outdoor Channel
+https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1,SCTV1
+https://liveh12.vtvprime.vn/hls/SCTV1/03.m3u8
+#EXTINF:-1,SCTV2
+https://liveh12.vtvprime.vn/hls/SCTV2/03.m3u8
+#EXTINF:-1,SCTV3
+https://liveh34.vtvprime.vn/hls/SCTV3/03.m3u8
+#EXTINF:-1,SCTV4
+https://liveh12.vtvprime.vn/hls/SCTV4/03.m3u8
+#EXTINF:-1,SCTV6
+https://liveh34.vtvprime.vn/hls/SCTV6/03.m3u8
+#EXTINF:-1,SCTV7
+https://liveh34.vtvprime.vn/hls/SCTV7/03.m3u8
+#EXTINF:-1,SCTV8
+https://liveh34.vtvprime.vn/hls/SCTV8/03.m3u8
+#EXTINF:-1,SCTV10
+https://liveh34.vtvprime.vn/hls/SCTV10/03.m3u8
+#EXTINF:-1,SCTV11
+https://liveh34.vtvprime.vn/hls/SCTV11/03.m3u8
+#EXTINF:-1,SCTV12
+https://liveh34.vtvprime.vn/hls/SCTV12/03.m3u8
+#EXTINF:-1,SCTV13
+https://liveh34.vtvprime.vn/hls/SCTV13/03.m3u8
+#EXTINF:-1,SCTV14
+https://liveh34.vtvprime.vn/hls/SCTV14/03.m3u8
+#EXTINF:-1,SCTV16
+https://liveh34.vtvprime.vn/hls/SCTV16/03.m3u8
+#EXTINF:-1,SCTV18
+https://liveh34.vtvprime.vn/hls/SCTV18/03.m3u8
+#EXTINF:-1,SCTV19
+https://liveh34.vtvprime.vn/hls/SCTV19/03.m3u8
+#EXTINF:-1,SCTV20
+https://liveh34.vtvprime.vn/hls/SCTV20/03.m3u8
+#EXTINF:-1,SCTV21
+https://liveh34.vtvprime.vn/hls/SCTV21/03.m3u8
+#EXTINF:-1,SCTV22
+https://liveh34.vtvprime.vn/hls/SCTV22/03.m3u8
+#EXTINF:-1,SCTV Phim Tông Hôp
+https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
+#EXTINF:-1,HBO HD
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.m3u8
+#EXTINF:-1,Cinemax HD
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.m3u8
 #EXTINF:-1,Cbeebies
 Cbeebies Asia Vietnam (1080p)
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd

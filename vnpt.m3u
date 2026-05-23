@@ -25,7 +25,7 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv9-hd/KenhCoBan.m3u8
 https://live.fptplay53.net/live/media/VTV_can_tho/live_hls_avc/index.m3u8
 #EXTINF:-1,BOX MOVIE 1 HD
 https://livevlisctcdnw.seenow.vn/mean/BM1/manifest.mpd
-#EXTINF:-1,BOX HITS HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XbkM9D2/Box-Hit-BEARTV.png", BOX HITS HD
 https://live-evg19.tv360.metfone.com.kh/hls/hls-cambodia/playlist.m3u8
 #EXTINF:-1,CNA HD
 https://liveh12.vtvprime.vn/hls/CAN/03.m3u8

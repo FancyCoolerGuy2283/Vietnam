@@ -243,8 +243,14 @@ https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=9a09a73ec1dc348584e2f130e27da667:06f8d1a6feaffbdab92adf347e7b469c
 https://s935.cdn.mytvnet.vn/pkg20/live_dzones/aplus.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="cartoonhd" group-title="KIDS" tvg-logo="https://mytv.com.vn/upload/channel/179.png", Cartoon Network HD
+#EXTINF:-1 tvg-id="dreamworks" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/THfL7QS/Dream-Works-cc.png", Dreamworks
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={"keys":K'kty":"oct","K":"PMGt1Drszj/jHJxqKluMIQ","kid":"PCAWZmCpOnWsd9uBVnOJ9w"'],type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key='keys":K"kty":"oct","k": "WTKPYh1WdnvF/5QEqJQGgw""kid"."Z9riBSfGPa2qrmCaqRV3yw"}],type":"temporary"}
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="asianfoodnetworkhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/pux6WN8.png", Asian Food Network
+https://liveh12.vtvprime.vn/hls/AFC/03.m3u8
+
+#EXTINF:-1 tvg-id="hgtv" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png", HGTV
+https://liveh34.vtvprime.vn/hls/HGTV/03.m3u8

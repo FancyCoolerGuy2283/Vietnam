@@ -335,10 +335,10 @@ https://live-a.fptplay53.net/live/media/vtv4/live247-hls-avc/index.m3u8
 https://live-a.fptplay53.net/live/media/vtv5/live247-hls-avc/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv5taynambohd" group-title="VTV" tvg-logo="https://i.imgur.com/xiuHjEQ.png", VTV5 Tây Nam Bo
-https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
+https://live-a.fptplay53.net/live/media/vtv5tnb/live-hls-avc/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv5taynguyenhd" group-title="VTV" tvg-logo="https://i.imgur.com/Hlcnqqt.png", VTV Tây Nguyên
-https://liveh12byt.vtvprime.vn/hls/VTV5_TN/03.m3u8
+https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/VTV6_logo.png", VTV6 HD
 https://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8

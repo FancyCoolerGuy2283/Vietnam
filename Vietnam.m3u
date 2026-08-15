@@ -140,25 +140,13 @@ https://livevlisctcdnw.seenow.vn/mean/MUSICBOX/manifest.mpd
 https://livevlisctcdnw.seenow.vn/livesnv2/WO/manifest.mpd
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="BOX" tvg-logo="https://vietanhtv.id.vn/logo/boxmovie1.jpg", Box Movie 1 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/mean/BM1/manifest.mpd
+https://usatv.dpdns.org/myroyalcable/fpt_box_movie_1/index.m3u8?st=1786765687983&exp=1786776487983&token=e9fcb843
 
 #EXTINF:-1 tvg-id="boxhits" group-title="BOX" tvg-logo="https://vietanhtv.id.vn/logo/boxhits.png", Box Hits HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
+https://usatv.dpdns.org/myroyalcable/fpt_box_hits/index.m3u8?st=1786765687982&exp=1786776487982&token=d066f0bb
 
 #EXTINF:-1 tvg-id="hollywoodclassic" group-title="BOX" tvg-logo="https://vietanhtv.id.vn/logo/hollywoodclassic.png", Hollywood Classics HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/mean/HC/manifest.mpd
+https://usatv.dpdns.org/myroyalcable/fpt_hollywood_classics/index.m3u8?st=1786765687983&exp=1786776487983&token=5e10255c
 
 #EXTINF:-1 tvg-id="warnertv" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/warnertv.png", Warner TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0

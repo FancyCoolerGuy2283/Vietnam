@@ -141,7 +141,6 @@ https://livevlisctcdnw.seenow.vn/livesnv2/WO/manifest.mpd
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="BOX" tvg-logo="https://vietanhtv.id.vn/logo/boxmovie1.jpg", Box Movie 1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-referrer=https://vtvprime.vn/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d54358306571658ffdb952c6560688b

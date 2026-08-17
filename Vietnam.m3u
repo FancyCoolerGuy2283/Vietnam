@@ -80,6 +80,13 @@ https://liveh34.vtvprime.vn/hls/SCTV7/03.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/SCTV8/03.m3u8
 
+#EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/SCTV9.png", SCTV9 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=22a9a9a63d2746df9f90c184c596105a:2d9d24caeaea42f8b44e413fe04f0e5c
+https://livebytsctbu.vtvprime.vn/mean/SCTV9/manifest.mpd
+
 #EXTINF:-1 tvg-id="sctv10hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV10.jpg", SCTV10
 https://liveh34.vtvprime.vn/hls/SCTV10/index.m3u8
 
@@ -99,8 +106,22 @@ https://liveh34.vtvprime.vn/hls/SCTV13/03.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/SCTV14/03.m3u8
 
+#EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://i.imgur.com/4qm5Phq.png", SCTV15 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livebytsctbu.vtvprime.vn/mean/SCTV15HD/manifest.mpd
+
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv16.png", SCTV16 HD
 https://liveh34.vtvprime.vn/hls/SCTV16/04.m3u8
+
+#EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://i.imgur.com/Nq7GWC4.png", SCTV17 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livebytsctbu.vtvprime.vn/mean/SCTV17/manifest.mpd
 
 #EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/SCTV18.jpg", SCTV18 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36

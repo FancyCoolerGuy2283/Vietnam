@@ -140,7 +140,11 @@ https://livevlisctcdnw.seenow.vn/mean/MUSICBOX/manifest.mpd
 https://livevlisctcdnw.seenow.vn/livesnv2/WO/manifest.mpd
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="BOX" tvg-logo="https://vietanhtv.id.vn/logo/boxmovie1.jpg", Box Movie 1 HD
-https://usatv.dpdns.org/myroyalcable/fpt_box_movie_1/index.m3u8?st=1786765687983&exp=1786776487983&token=e9fcb843
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d54358306571658f:fdb952c6560688b
+https://livebytsctbu.vtvprime.vn/mean/BM1/manifest.mpd
 
 #EXTINF:-1 tvg-id="boxhits" group-title="BOX" tvg-logo="https://vietanhtv.id.vn/logo/boxhits.png", Box Hits HD
 https://usatv.dpdns.org/myroyalcable/fpt_box_hits/index.m3u8?st=1786765687982&exp=1786776487982&token=d066f0bb
